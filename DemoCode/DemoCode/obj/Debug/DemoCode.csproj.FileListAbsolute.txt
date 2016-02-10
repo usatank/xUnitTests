@@ -1,0 +1,6 @@
+c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\bin\Debug\DemoCode.exe.config
+c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\bin\Debug\DemoCode.exe
+c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\bin\Debug\DemoCode.pdb
+c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\obj\Debug\DemoCode.csprojResolveAssemblyReference.cache
+c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\obj\Debug\DemoCode.exe
+c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\obj\Debug\DemoCode.pdb
