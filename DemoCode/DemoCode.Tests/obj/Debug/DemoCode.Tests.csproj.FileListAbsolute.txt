@@ -17,3 +17,22 @@ c:\Users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode.Tests\
 c:\Users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.csprojResolveAssemblyReference.cache
 c:\Users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.dll
 c:\Users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.runner.visualstudio.testadapter.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.runner.utility.desktop.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.abstractions.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\DemoCode.Tests.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\DemoCode.Tests.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\DemoCode.exe
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.assert.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.core.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.execution.desktop.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\DemoCode.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.assert.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.assert.xml
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.core.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.core.xml
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.execution.desktop.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\xunit.execution.desktop.xml
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.csprojResolveAssemblyReference.cache
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.dll
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.pdb

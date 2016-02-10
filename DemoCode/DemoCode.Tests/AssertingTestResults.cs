@@ -3,6 +3,7 @@
 namespace DemoCode.Tests
 {
 
+    [Trait("Category", "TestCategory")]
     public class AssertingTestResults
     {
 

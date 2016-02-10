@@ -66,6 +66,9 @@
     <Compile Include="AssertingRandes.cs" />
     <Compile Include="AssertingTestResults.cs" />
     <Compile Include="CalculatorTests.cs" />
+    <Compile Include="MemoryCalculatorTest.cs" />
+    <Compile Include="OutputTest.cs" />
+    <Compile Include="PlayerCharacterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

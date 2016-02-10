@@ -4,3 +4,9 @@ c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\bin\De
 c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\obj\Debug\DemoCode.csprojResolveAssemblyReference.cache
 c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\obj\Debug\DemoCode.exe
 c:\users\a.yuskov\documents\visual studio 2015\Projects\DemoCode\DemoCode\obj\Debug\DemoCode.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode\bin\Debug\DemoCode.exe.config
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode\obj\Debug\DemoCode.exe
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode\obj\Debug\DemoCode.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode\bin\Debug\DemoCode.exe
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode\bin\Debug\DemoCode.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode\obj\Debug\DemoCode.csprojResolveAssemblyReference.cache
