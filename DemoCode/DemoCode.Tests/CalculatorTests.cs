@@ -14,6 +14,7 @@ namespace DemoCode.Tests
         }
 
         [Fact]
+        [Trait("Category", "Error Checking")]
         public void ShouldAdd2()
         {
             var sut = new Calculator();
