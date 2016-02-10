@@ -16,6 +16,7 @@ namespace DemoCode.Tests
         }
 
         [Fact]
+        [Trait("Category", "Error Checking")]
         public void ShouldJoinNames_CaseUnsensitive()
         {
             NameJoiner test = new NameJoiner();
