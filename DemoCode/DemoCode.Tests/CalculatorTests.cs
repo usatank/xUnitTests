@@ -22,6 +22,7 @@ namespace DemoCode.Tests
         }
 
         [Fact]
+        [Trait("Category", "Error Checking")]
         public void ShouldAddDoubles()
         {
             var sut = new Calculator();
@@ -30,6 +31,7 @@ namespace DemoCode.Tests
         }
 
         [Fact]
+        [Trait("Catetory", "Error Checking")]
         public void Divide()
         {
             var sut = new Calculator();
