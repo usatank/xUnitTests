@@ -31,5 +31,10 @@ namespace DemoCode
 
         }
 
+        public void Clear()
+        {
+            CurrentValue = 0;
+        }
+
     }
 }
