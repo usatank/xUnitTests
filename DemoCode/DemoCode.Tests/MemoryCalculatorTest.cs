@@ -9,7 +9,7 @@ using Xunit.Abstractions;
 namespace DemoCode.Tests
 {
     [Trait("Category", "TestAbstractCalculator")]
-    public class MemoryCalculatorTest : IDisposable;
+    public class MemoryCalculatorTest : IDisposable
     {
         private readonly ITestOutputHelper _helper;
 
