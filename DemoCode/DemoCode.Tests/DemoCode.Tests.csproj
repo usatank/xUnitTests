@@ -69,9 +69,13 @@
     <Compile Include="MemoryCalculatorTest.cs" />
     <Compile Include="MemoryCalculatorTestDDT.cs" />
     <Compile Include="MemoryCalculatorTestsSingleInstance.cs" />
+    <Compile Include="MemoryCalculatorTestsWithClass.cs" />
     <Compile Include="OutputTest.cs" />
     <Compile Include="PlayerCharacterTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <None Include="TestDataCSV.csv">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\DemoCode\DemoCode.csproj">

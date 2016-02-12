@@ -36,3 +36,4 @@ D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests
 D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.csprojResolveAssemblyReference.cache
 D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.dll
 D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\obj\Debug\DemoCode.Tests.pdb
+D:\Andrii\Levi9\Academy\Repository\xUnitTests\xUnitTests\DemoCode\DemoCode.Tests\bin\Debug\TestDataCSV.csv
